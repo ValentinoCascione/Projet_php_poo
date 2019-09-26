@@ -1,0 +1,55 @@
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    font-family: 'Merriweather', serif!important;
+    align-items: center;
+    text-align: center;
+}
+
+html {
+    font-family: 'Oswald', sans-serif;
+}
+
+.btn {
+    font-weight: bold!important;
+    color: white!important;
+}
+
+.add a, .btn a {
+    color: white;
+}
+
+.add a:hover, .btn a:hover {
+    text-decoration: none;
+    color: white;
+}
+
+th .add {
+    width: 300px;
+}
+
+td, th {
+    width: 100px;
+    text-align: center!important;
+}
+
+th {
+    font-size: 18px;
+    font-weight: bold!important;
+}
+
+.table {
+    margin-top: 50px!important;
+}
+
+.titles {
+    font-weight: bold;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+label {
+    font-size: 20px;
+    margin-left: 10px;
+}
